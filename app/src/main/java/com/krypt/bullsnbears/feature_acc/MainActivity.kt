@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                     val logo= painterResource(id = R.drawable.logo)
 
                     Image(painter =logo, contentDescription = "Logo", modifier = Modifier.size(45.dp,45.dp))
-                    Text("Bulls and bears")
+                    Text("Bulls n bears")
                 }
             }
         MobileAds.initialize(this) {}
