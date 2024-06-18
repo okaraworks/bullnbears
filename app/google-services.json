@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624484906739",
+    "project_id": "bullsnbears-6bb6b",
+    "storage_bucket": "bullsnbears-6bb6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624484906739:android:cc296a6169e664c8fd6986",
+        "android_client_info": {
+          "package_name": "com.krypt.bullsnbears"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDud9ug4P8uW-6pgxNe_sNms82xLhlhWRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
